@@ -1,0 +1,13 @@
+# Environnements virtuels Python
+venv/
+.venv/
+env/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Tes documents et futures bases vectorielles
+*.pdf
+*.faiss
+*.pkl
