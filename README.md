@@ -45,7 +45,7 @@ La question est encodée avec le même modèle, puis comparée à l'index (simil
 | Embeddings et re-ranking | SentenceTransformers, PyTorch |
 | Calcul vectoriel | NumPy |
 | Exécution du LLM | Ollama ([nom du modèle]) |
-| Interface | Streamlit |
+| Interface | Streamlit (implémentation à venir|
 
 ## Installation
 
@@ -86,10 +86,10 @@ streamlit run app.py
 ## Résultats
 
 <!-- Même quelques chiffres simples rendent le projet beaucoup plus crédible -->
-- Testé sur [X] documents ([X] pages au total)
-- Temps d'indexation : [X] secondes
-- Temps de réponse moyen : [X] secondes sur [ta machine, ex. CPU i5, 16 Go RAM]
-- Apport du re-ranking : [ex. « réponses correctes sur X questions test sur Y, contre Z sans re-ranking »]
+- Testé sur 5 documents (27 pages au total)
+- Temps d'indexation : quelques millisecondes
+- Temps de réponse moyen : quelques secondes sur [ta machine, ex. CPU i5, 16 Go RAM]
+  
 
 ## Limites et améliorations possibles
 
