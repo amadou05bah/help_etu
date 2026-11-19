@@ -45,7 +45,7 @@ La question est encodée avec le même modèle, puis comparée à l'index (simil
 | Embeddings et re-ranking | SentenceTransformers, PyTorch |
 | Calcul vectoriel | NumPy |
 | Exécution du LLM | Ollama ([nom du modèle]) |
-| Interface | Streamlit (implémentation à venir|
+| Interface | Streamlit (implémentation à venir)|
 
 ## Installation
 
